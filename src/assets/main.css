@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    width: 100%;
+    min-height: 100vh;
+    background: linear-gradient(118deg, rgba(2,0,36,1) 0%, rgba(127,140,18,1) 0%, rgba(72,200,123,1) 56%, rgba(200,199,73,1) 100%, rgba(24,213,198,1) 100%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
