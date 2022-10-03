@@ -10,6 +10,8 @@ This template should help get you started developing with Vue 3 in Vite.
 
 See [Vite Configuration Reference](https://vitejs.dev/config/).
 
+<img src="https://www.englishdom.com/dynamicus/blog-post/000/002/152/1604329022_content_700x455.jpg?1604329023125"/>
+
 ## Project Setup
 
 ```sh
